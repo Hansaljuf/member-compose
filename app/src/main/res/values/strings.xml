@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maroon Labkom</string>
+    <string name="about_nav">About</string>
+    <string name="title_activity_splash">Splash</string>
+</resources>
